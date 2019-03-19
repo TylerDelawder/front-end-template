@@ -1,5 +1,5 @@
 
-//FUNCTION TO GET AND AUTO PLAY YOUTUBE VIDEO FROM DATATAG
+//Function to play YouTube video
 
 function autoPlayYouTubeModal() {
   var trigger = $("body").find('[data-toggle="modal"]');
@@ -13,3 +13,6 @@ function autoPlayYouTubeModal() {
       });
   });
 }
+$(document).ready(function(){
+    autoPlayYouTubeModal();
+})
