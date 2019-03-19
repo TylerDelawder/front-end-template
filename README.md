@@ -34,5 +34,5 @@ The class(es) I created are:
 The javascript functions I created are:
 
 1.  autoPlayYouTubeModal()
-.. Plays the YouTube video in a pop-up box when clicked.
+.. Plays the YouTube video in a pop-up box when clicked and autoplays automatically.
 ```
