@@ -1,5 +1,5 @@
 
-//Function to play YouTube video
+//Function to play YouTube video in the pop-up & auto play the video.
 
 function autoPlayYouTubeModal() {
   var trigger = $("body").find('[data-toggle="modal"]');
@@ -15,4 +15,4 @@ function autoPlayYouTubeModal() {
 }
 $(document).ready(function(){
     autoPlayYouTubeModal();
-})
+}) 
