@@ -2,7 +2,7 @@
 
 ## Description
 ```
-My site is called "Randommovies.com". Users can access my site and click a random movie to watch. The movie will stream in a pop up on the main page. They can sign up to be notified when the next movie is scheduled for on a different page, and contact us on another page.
+My site is called "Randommovies.com". Users can access my site and click a random movie to watch. The movie will stream in a pop up on the main page. They can sign up to be notified when the next movie is scheduled for on a different page, and suggest a movie on another page.(These links are there, but the html pages aren't active.)
 
 ```
 
@@ -24,7 +24,6 @@ The class(es) I created are:
 .. This changes the height of the footer.
 6. .jumbotron
 .. This changes the background image, size, and positioning for the jumbotron text.
-7. 
 ```
 
 
@@ -34,5 +33,5 @@ The class(es) I created are:
 The javascript functions I created are:
 
 1.  autoPlayYouTubeModal()
-.. Plays the YouTube video in a pop-up box when clicked and autoplays automatically. (Make sure your adblocker is turned off, I learned this the hard way.)
+.. Plays the YouTube video in a pop-up box when clicked and autoplays automatically. (Make sure your adblocker is turned off so autoplay works, I learned this the hard way.)
 ```
